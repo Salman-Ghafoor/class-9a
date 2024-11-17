@@ -39,7 +39,7 @@ const FeaturedProducts = () => {
                     src="/Product3.jpg"
                     alt="Product Three"
                     width={600}
-                    height={400 }
+                    height={400}
                 />
                 <p className="text-center pt-10">PKR 5,000</p>
                 <div className="flex justify-center items-center my-4 mt-14">
