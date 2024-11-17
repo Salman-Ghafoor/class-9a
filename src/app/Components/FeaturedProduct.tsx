@@ -36,7 +36,7 @@ const FeaturedProducts = () => {
 
             <div className="md:w-6/12 w-full">
                 <Image
-                    src="/Product3.jpg"
+                    src="/product3.jpg"
                     alt="Product Three"
                     width={600}
                     height={400}
